@@ -1,0 +1,42 @@
+<!-- 页头 -->
+<div class="head visible-lg">
+		<div class="top">
+        	<div class="topleft">欢迎光临中国民办高等教育学生信息网！</div>	
+	        <div class="topright">
+	          <a href="#"><i class="icon icon-lock"></i>登录</a><a href="#" class="zce"><i class="icon icon-zoom-in"></i>注册</a>
+	        </div>
+      	</div>
+		<div class="logo"><img src="http://192.168.199.180/skin/style/images/logo.png"></div>
+		<div class="navnew">
+		<ul>
+			<li class="columns n1"><a href="#">首页</a></li>	
+			<li class="columns n2"><a href="#">概况</a></li>	
+			<li class="n3">
+			<a href="#">平台介绍</a>
+			<a href="#">资质批文</a>
+			<a href="#">主管单位</a>
+			<a href="#">领导活动</a>
+			<a href="#">政策法规</a>
+			<a href="#">民教人物</a>
+			</li>
+			<li class="columns n4"><a href="#">资讯</a></li>	
+			<li class="n5">
+			<a href="#">新闻中心</a>	
+			<a href="#">通知公告</a>
+			<a href="#">院校资讯</a>
+			<a href="#">媒体关注</a>
+			<a href="#">教育时评</a>
+			<a href="#">要闻博览</a>         
+			</li>
+			<li class="columns n6"><a href="#">服务</a></li>	
+			<li class="n7">
+			<a href="#">证书查询</a> 
+			<a href="#">证书验证</a> 
+			<a href="#">求职就业</a>
+			<a href="#">办学指南</a>
+			<a href="#">通知公告</a>
+			<a href="#">客服中心</a>
+			</li>
+		</ul>	
+		</div>
+    </div>

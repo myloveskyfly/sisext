@@ -1,0 +1,42 @@
+<div class="head visible-lg">
+        <div id="banner">
+      <img src="banner.png">
+      </div>
+      <div id="nav1">
+      <div id="nav2">      
+      <div class="sylj"><a href="http://www.cpsis.com.cn/"></a></div>
+      <div class="gk">
+        <ul>
+          <li><a href="http://www.cpsis.com.cn/list-1539.html">平台介绍</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1540.html">资质批文</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1541.html">主管单位</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1492.html">领导活动</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1490.html">政策法规</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1494.html">民教人物</a></li>
+
+        </ul>	
+      </div>
+      <div class="zx">		
+        <ul>  
+          <li><a href="http://www.cpsis.com.cn/list-1489.html">新闻中心</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1543.html">通知公告</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1554.html">院校资讯</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1563.html">媒体关注</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1562.html">教育时评</a></li>
+          <li><a href="http://www.cpsis.com.cn/list-1564.html">要闻博览</a></li>
+        </ul>	
+      </div>	
+
+      <div class="fw">		
+        <ul> 				
+          <li><a href="xlcx.html">证书查询</a></li>
+          <li><a href="xjcx.html">学籍查询</a></li>
+          <li><a href="dacx.html">档案管理</a></li>
+          <li><a href="rzbgcx.html">认证报告</a></li>
+          <li><a href="xlbgcx.html">证书验证</a></li>
+          <li><a href="xjbgcx.html">学籍验证</a></li>
+        </ul>	
+      </div>									           
+      </div>
+    </div>
+  </div>

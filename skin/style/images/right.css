@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */ 
+.zright ul,ul li{list-style:none;margin:0px;padding:0px}
+.zright img{border:0px}
+.zright{float:left;width:250px;}
+.zright .leader{width:250px;float:left;background: url(rw.png) no-repeat;height: 235px;}
+.zright .leader .titley{float: left;width:250px;height: 40px;line-height: 40px;}
+.zright .leader .titley span{font-size: 16px;color: #286fbd;font-weight: bold;line-height: 40px;padding-left: 12px;}
+.zright .leader .titley a{float:right;color: #737373;font-size: 12px;padding-right: 10px;}
+.zright .leader ul{width: 250px;clear: both;}
+.zright .leader ul li{float: left;width: 250px;margin-bottom: 14px;}
+.zright .leader ul li img{width: 67px;height: 83px;float: left;margin-left: 12px;}
+.zright .leader ul li span{float: left;margin-left: 12px;width: 150px;text-align: justify;}
+.zright .leader ul li h2{color: #e12000;font-size: 14px;border-bottom: 1px dashed #e0dede;line-height: 28px;}
+.zright .leader ul li h2 a{color: #e12000;}
+.zright .leader ul li h6{color: #545454;font-size: 13px;line-height: 21px;padding-top: 5px;height: 45px;overflow: hidden;}
+.zright .rsrm{width:250px;float:left;height:175px;margin-top: 20px;border-right: 1px #b1d8ef solid;border-bottom: 1px #b1d8ef solid;border-left: 1px #b1d8ef solid;}
+.zright .rsrm .titley{float: left;width:248px;height: 40px;line-height: 40px;background: url(xw.png) repeat-x;}
+.zright .rsrm .titley span{font-size: 16px;color: #286fbd;font-weight: bold;line-height: 40px;padding-left: 12px;}
+.zright .rsrm .titley a{float:right;color: #737373;font-size: 12px;padding-right: 10px;}
+.zright .rsrm ul{clear: both;padding-top: 5px;}
+.zright .rsrm ul li{width: 238px;line-height: 30px;height: 30px;background-image: url(xb.png);background-repeat: no-repeat;background-position: left center;text-indent: 7px;float: left;margin-left: 9px;overflow: hidden;}
+.zright .rsrm ul li a{font-size: 14px;color: #252525;}
+
+.zright .dzfwpt{width:250px;float:left;height:340px;margin:20px 0px;border-right: 1px #b1d8ef solid;border-bottom: 1px #b1d8ef solid;border-left: 1px #b1d8ef solid;}
+.zright .dzfwpt .titley{float: left;width:248px;height: 40px;line-height: 40px;background: url(xw.png) repeat-x;}
+.zright .dzfwpt .titley span{font-size: 16px;color: #286fbd;font-weight: bold;line-height: 40px;padding-left: 12px;}
+.zright .dzfwpt .titley a{float:right;color: #737373;font-size: 12px;padding-right: 10px;}
+.zright .dzfwpt ul {float: left;width: 228px;height: 275px;background: url(bjt.png) no-repeat;margin-top: 12px;margin-left: 10px;}
+.zright .dzfwpt ul li {float: left;width: 68px;height: 42px;line-height: 42px;margin:0 4px 5px 42px;overflow: hidden;}
+.zright .dzfwpt ul li a{color: #6e6780;font-size: 14px;}
