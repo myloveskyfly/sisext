@@ -1,0 +1,63 @@
+@charset "utf-8";
+.content .ld_l { background-image: url(nrbg0.jpg); background-repeat: repeat-x; }
+
+.content .ld_l .nrbox_top { width: 229px; }
+
+.content .ld_l { float: left; width: 740px; border: 1px solid #acc5e4; }
+
+.content .ld_sidebar { float: right; width: 247px; }
+
+.content .ld_l .ld_l_01 { width: 230px; text-align: center; float: left; background-image: url(d10.jpg); background-repeat: repeat-y; margin-top: 0px; padding-top: 0px; }
+
+.content .ld_l .ld_m { padding-left: 245px; }
+.bar { margin-top: 0px; border: 1px solid #ACC5E4; width: 247px; float: right; }
+.bar .focus { DISPLAY: block; OVERFLOW: hidden; CURSOR: pointer; TEXT-DECORATION: none; padding-top: 0px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px; border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: #CCC; margin-right: 5px; margin-left: 5px; margin-top: 8px; }
+
+.bar .focus IMG { BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; DISPLAY: inline; FLOAT: left; BORDER-LEFT: #ccc 1px solid; WIDTH: 74px; MARGIN-RIGHT: 10px; BORDER-BOTTOM: #ccc 1px solid; HEIGHT: 56px; padding: 2px; }
+.bar .focus STRONG { DISPLAY: block; FONT-WEIGHT:bold; FONT-SIZE: 13px; OVERFLOW: hidden; COLOR: #069; LINE-HEIGHT: 24px; HEIGHT: 26px }
+
+.bar .focus SPAN { DISPLAY: block; OVERFLOW: hidden; COLOR: #4d4d4d; LINE-HEIGHT: 20px; height: 40px; }
+
+.bar LI { OVERFLOW: hidden; LINE-HEIGHT: 24px; text-align: center; padding: 0px; background-color: #FFF; float: left; margin-top: 10px; margin-bottom: 10px; margin-left: 30px; width: 73px; margin-right: 10px; display: inline; }
+}
+.bar .ldhd_a .pic { height: 95px; width: 73px; float: left; overflow: hidden; padding-bottom: 10px; }
+
+.ldhd { width: 98%; padding: 0px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; }
+
+.bar .ldhd_a .text{ font-size: 14px; font-weight: bold; float: left; margin-left: 10px; margin-top: 20px; overflow: hidden; }
+
+/*.bar .ldhd_a { width: 96%; border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #CCC; margin-right: auto; margin-left: auto; }*/
+.bar .ldhd_a { width: 96%; margin-right: auto; margin-left: auto; }
+.intit { line-height: 31px; height: 31px; FONT-SIZE: 13px; LINE-HEIGHT: 31px; HEIGHT: 31px; background-image: url(cap_bg.gif); background-repeat: repeat-x; width: 100%; }
+
+.intit STRONG { COLOR: #036; float: left; padding-left: 0px; line-height: 31px; text-indent: 16px; font-size: 14px; font-weight: bold; background-image: url(ae7.gif); background-repeat: no-repeat; background-position: 5px center; }
+
+.intit STRONG a { COLOR: #036 }
+
+.ld_m .nr_r_hd h2 { line-height: 32px; border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #CCC; width: 98%; margin-right: auto; margin-left: auto; font-size: 14px; color: #069; background-image: url(ae7.gif); background-repeat: no-repeat; background-position: 0px center; text-align: left; text-indent: 12px; }
+
+.ld_m .nr_r_hd h2 .more { float: right; font-size: 12px; margin-right: 12px; color: #666; }
+
+.ld_m .nr_r_hd ul li a { font-size: 14px; line-height: 30px; height: 30px; }
+
+.ld_m .nr_r_hd ul li { border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: #CCC; width: 96%; margin-right: auto; margin-left: auto; background-image: url(blue_point_21.jpg); background-repeat: no-repeat; background-position: 0px center; text-align: left; text-indent: 10px; }
+
+.ld_m .nr_r_hd { padding-bottom: 8px; padding-top: 15px; }
+
+.ld_l .ld_l_01 .mjld p { margin-right: 13px; margin-left: 13px; text-align: left; }
+
+.ld_l .ld_l_01 .tpbd .tu { width: 175px; margin-right: auto; margin-left: auto; margin-top: 10px; }
+
+.ld_l .ld_l_01 .tpbd .tu span { line-height: 24px; height: 24px; text-align: center; }
+
+
+
+.bar ul  span { text-align: center; line-height: 28px; height: 28px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; width: 100%; }
+
+.content .bg_l { background-image: url(d10.jpg); background-repeat: repeat-y; margin-top: 0px; padding-top: 0px; }
+
+.ld_l.bg_l .ld_l_01 .mjld h3 { font-size: 14px; color: #069; }
+
+
+
+.bar .pic_list { width: 100%; float: left; }

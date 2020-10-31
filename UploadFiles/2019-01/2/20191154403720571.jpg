@@ -1,0 +1,32 @@
+<pre>An Error occurred while handling another error:
+exception &#039;yii\base\UnknownMethodException&#039; with message &#039;Calling unknown method: yii\web\View::redirect()&#039; in /data/web/www/vendor/yiisoft/yii2/base/Component.php:294
+Stack trace:
+#0 /data/web/www/minbannew/backend/views/layouts/main.php(6): yii\base\Component-&gt;__call(&#039;redirect&#039;, Array)
+#1 /data/web/www/minbannew/backend/views/layouts/main.php(6): yii\web\View-&gt;redirect(Array)
+#2 /data/web/www/vendor/yiisoft/yii2/base/View.php(332): require(&#039;/data/web/www/m...&#039;)
+#3 /data/web/www/vendor/yiisoft/yii2/base/View.php(250): yii\base\View-&gt;renderPhpFile(&#039;/data/web/www/m...&#039;, Array)
+#4 /data/web/www/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View-&gt;renderFile(&#039;/data/web/www/m...&#039;, Array, Object(backend\controllers\SiteController))
+#5 /data/web/www/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller-&gt;renderContent(&#039;&lt;div class=&quot;sit...&#039;)
+#6 /data/web/www/vendor/yiisoft/yii2/web/ErrorAction.php(128): yii\base\Controller-&gt;render(&#039;error&#039;, Array)
+#7 /data/web/www/vendor/yiisoft/yii2/web/ErrorAction.php(107): yii\web\ErrorAction-&gt;renderHtmlResponse()
+#8 [internal function]: yii\web\ErrorAction-&gt;run()
+#9 /data/web/www/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#10 /data/web/www/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action-&gt;runWithParams(Array)
+#11 /data/web/www/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller-&gt;runAction(&#039;error&#039;, Array)
+#12 /data/web/www/vendor/yiisoft/yii2/web/ErrorHandler.php(97): yii\base\Module-&gt;runAction(&#039;site/error&#039;)
+#13 /data/web/www/vendor/yiisoft/yii2/base/ErrorHandler.php(111): yii\web\ErrorHandler-&gt;renderException(Object(yii\web\NotFoundHttpException))
+#14 [internal function]: yii\base\ErrorHandler-&gt;handleException(Object(yii\web\NotFoundHttpException))
+#15 {main}
+Previous exception:
+exception &#039;yii\base\InvalidRouteException&#039; with message &#039;Unable to resolve the request &quot;UploadFile/image/20190103/2019010313510519519.jpg&quot;.&#039; in /data/web/www/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /data/web/www/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module-&gt;runAction(&#039;UploadFile/imag...&#039;, Array)
+#1 /data/web/www/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application-&gt;handleRequest(Object(yii\web\Request))
+#2 /data/web/www/minbannew/backend/web/index.php(19): yii\base\Application-&gt;run()
+#3 {main}
+
+Next exception &#039;yii\web\NotFoundHttpException&#039; with message &#039;页面未找到。&#039; in /data/web/www/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /data/web/www/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application-&gt;handleRequest(Object(yii\web\Request))
+#1 /data/web/www/minbannew/backend/web/index.php(19): yii\base\Application-&gt;run()
+#2 {main}</pre>

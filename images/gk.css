@@ -1,0 +1,52 @@
+﻿.main_gk { background-color: #228ece; display: block; padding: 13px;margin-top: 10px;}
+
+.main_gk .nav001 {border-radius:10px 10px 0 0;/*background-image: url(pt_21.jpg); */background-repeat: no-repeat; background-position: center bottom; width: 199px; height:530px; background-color: #FFF; float: left; position: relative; }
+
+/*.main_gk .nav001 .dj { position: absolute; height: 10px; width: 199px; top: 0px; background-image: url(pt_03.jpg); background-repeat: no-repeat; background-position: 0px 0px; }*/
+.main_gk .nav001 .pic{overflow:hidden;border-radius:0 0 10px 10px;}
+.main_gk .gk_r { width:765px; background-color: #FFF; /*background-image: url(pt_22.jpg);*/ background-repeat: no-repeat; background-position: 0px bottom; position: relative; float: right; padding-bottom: 30px; }
+
+.main_gk .gk_r .dp { position: absolute; /*background-image: url(pt_05.jpg);*/ background-repeat: no-repeat; background-position: 0px 0px; height: 10px; width: 729px; top: 0px; }
+
+.main_gk .nav001 ul { margin-top: 15px; }
+
+.main_gk .nav001 ul li { height: 38px; width: 182px; margin-right: auto; margin-left: auto; display: block; margin-bottom: 5px; }
+
+.nav001 ul .n1 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px 0px; }
+
+.nav001 ul .n2 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px -43px; }
+.nav001 ul .n3 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px -87px; }
+
+.nav001 ul .n4 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px -131px; }
+.nav001 ul .n5 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px -174px; }
+.nav001 ul .n6 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px -217px; }
+.nav001 ul .n6 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px -217px; }
+.nav001 ul .n7 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: 0px -256px; }
+.nav001 ul .n1:hover { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right 0px; }
+
+.nav001 ul .n2:hover { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -43px; }
+.nav001 ul .n3:hover { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -87px; }
+
+.nav001 ul .n4:hover { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -131px; }
+.nav001 ul .n5:hover{ background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -174px; }
+.nav001 ul .n6:hover { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -217px; }
+.nav001 ul .n7:hover { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -256px; }
+.nav001 ul a { height: 38px; width: 182px; overflow: hidden; display: block; line-height: 38px; text-indent: -999px; }
+
+.nav001 ul .n001 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right 0px; }
+
+.nav001 ul .n002 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -43px; }
+.nav001 ul .n003 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -87px; }
+
+.nav001 ul .n004 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -131px; }
+.nav001 ul .n005{ background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -174px; }
+.nav001 ul .n006 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -217px; }
+.nav001 ul .n007 { background-image: url(gkbtn.gif); background-repeat: no-repeat; background-position: right -256px; }
+
+.main_gk .nav001 .tel { text-align: center; }
+
+.main_gk .gk_r .gk_tit { margin-top: 30px; margin-bottom: 8px; padding-left: 30px;}
+
+.main_gk .gk_r .dpic { margin-left: 30px; }
+
+.main_gk .gk_r .txt { line-height: 24px; font-size: 14px; margin-left: 20px; margin-right: 20px; color: #069; }
