@@ -55,7 +55,7 @@ body{background:url(bj.jpg) no-repeat center top;}
 ul,ul li{list-style:none;margin:0px;padding:0px}
 #banner{width:1004px;margin:0px auto;height:168px; overflow:hidden}
 #banner img{width:1004px;}
-#nav1{width: 1004px;margin: 0px auto;border-top: 0px;height: 94px;background-image:url(//www.cpsis.com.cn/images/navbg.jpg);clear: both;}
+#nav1{width: 1004px;margin: 0px auto;border-top: 0px;height: 94px;background-image:url(navbg.jpg);clear: both;}
 #nav2{width:1004px;margin:0px auto;background-repeat:no-repeat;height:94px;}
 #nav2 dl{float:left}
 #nav2 dl dt{float:left;width:35px;padding-top:8px; text-align:right}
